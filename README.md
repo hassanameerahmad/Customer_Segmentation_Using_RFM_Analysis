@@ -4,7 +4,7 @@
 This project applies RFM (Recency, Frequency, Monetary) analysis on the Online Retail dataset (UCI)
 to understand customer behavior and segment them into groups for targeted marketing.
 
-** What is RFM?**
+ What is RFM?
 
 Recency (R): How recently a customer made a purchase
 
