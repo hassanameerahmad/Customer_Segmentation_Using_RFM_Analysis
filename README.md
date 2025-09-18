@@ -5,6 +5,7 @@ This project applies RFM (Recency, Frequency, Monetary) analysis on the Online R
 to understand customer behavior and segment them into groups for targeted marketing.
 
 ** What is RFM?**
+
 Recency (R): How recently a customer made a purchase
 
 Frequency (F): How often a customer purchased
